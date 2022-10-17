@@ -17,10 +17,11 @@
     "require": {
         "composer/installers": "^1.9",
         "cweagans/composer-patches": "^1.7",
+        "drupal/admin_toolbar": "3.x-dev",
+        "drupal/auto_entitylabel": "3.x-dev",
         "drupal/core": "9.5.x-dev",
         "drupal/core-composer-scaffold": "9.5.x-dev",
         "drupal/core-recommended": "9.5.x-dev",
-        "drupal/admin_toolbar": "3.x-dev",
         "drupal/schemadotorg": "1.0.x-dev",
         "drush/drush": "^11.0",
         "oomphinc/composer-installers-extender": "^2.0",
@@ -116,6 +117,9 @@
             "drupal/core": "-p2"
         },
         "patches": {
+            "drupal/auto_entitylabel": {
+                "Issue #3286135: Drupal 10 Compatibility fixes": "https://git.drupalcode.org/project/auto_entitylabel/-/merge_requests/7.patch"
+            }
         }
     },
     "scripts": {
