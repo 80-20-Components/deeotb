@@ -118,6 +118,9 @@
             "drupal/core": "-p2"
         },
         "patches": {
+            "drupal/admin_toolbar": {
+                "Issue #3158256: Replace deprecated library core/jquery.once with core/once": "https://git.drupalcode.org/project/admin_toolbar/-/merge_requests/21.patch"
+            },
             "drupal/auto_entitylabel": {
                 "Issue #3286135: Drupal 10 Compatibility fixes": "https://git.drupalcode.org/project/auto_entitylabel/-/merge_requests/7.patch"
             }
