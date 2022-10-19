@@ -24,6 +24,7 @@
         "drupal/core-composer-scaffold": "9.5.x-dev",
         "drupal/core-recommended": "9.5.x-dev",
         "drupal/paragraphs": "1.x-dev",
+        "drupal/scheduler": "2.x-dev",
         "drupal/schemadotorg": "1.0.x-dev",
         "drupal/token": "1.x-dev",
         "drush/drush": "^11.0",
