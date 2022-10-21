@@ -12,6 +12,6 @@ The purpose of this project is to leverage Github Actions to build a Drupal 10 s
 
 | Analysis Type | Results | Test Run |
 | ----- | ----- | ----- |
-| Static Analysis: | ![Static Analysis](https://github.com/Drupal-10-Compatibility/deeotb/actions/workflows/static_analysis.yml/badge.svg) | [Static Analysis](https://github.com/Drupal-10-Compatibility/deeotb/actions/workflows/static_analysis.yml) |
-| Coding Standards: | ![Coding Standards](https://github.com/Drupal-10-Compatibility/deeotb/actions/workflows/coding_standards.yml/badge.svg) | [Coding Standards](https://github.com/Drupal-10-Compatibility/deeotb/actions/workflows/coding_standards.yml) |
-| Unit Tests: | ![Unit Tests](https://github.com/Drupal-10-Compatibility/deeotb/actions/workflows/unit_tests.yml/badge.svg) | [Unit Tests](https://github.com/Drupal-10-Compatibility/deeotb/actions/workflows/unit_tests.yml) |
+| Static Analysis: | ![Static Analysis](https://github.com/80-20-Components/deeotb/actions/workflows/static_analysis.yml/badge.svg) | [Static Analysis](https://github.com/80-20-Components/deeotb/actions/workflows/static_analysis.yml) |
+| Coding Standards: | ![Coding Standards](https://github.com/80-20-Components/deeotb/actions/workflows/coding_standards.yml/badge.svg) | [Coding Standards](https://github.com/80-20-Components/deeotb/actions/workflows/coding_standards.yml) |
+| Unit Tests: | ![Unit Tests](https://github.com/80-20-Components/deeotb/actions/workflows/unit_tests.yml/badge.svg) | [Unit Tests](https://github.com/80-20-Components/deeotb/actions/workflows/unit_tests.yml) |
