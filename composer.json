@@ -20,12 +20,22 @@
         "drupal/address": "1.x-dev",
         "drupal/admin_toolbar": "3.x-dev",
         "drupal/auto_entitylabel": "3.x-dev",
+        "drupal/consumers": "1.x-dev",
         "drupal/core": "9.5.x-dev",
         "drupal/core-composer-scaffold": "9.5.x-dev",
         "drupal/core-recommended": "9.5.x-dev",
+        "drupal/crop": "2.x-dev",
+        "drupal/ctools": "4.1.x-dev",
+        "drupal/decoupled_router": "2.x-dev",
+        "drupal/inline_entity_form": "1.x-dev",
+        "drupal/jsonapi_extras": "3.x-dev",
+        "drupal/metatag": "1.x-dev",
         "drupal/paragraphs": "1.x-dev",
+        "drupal/pathauto": "1.x-dev",
         "drupal/scheduler": "2.x-dev",
         "drupal/schemadotorg": "1.0.x-dev",
+        "drupal/simple_sitemap": "4.x-dev",
+        "drupal/smart_date": "3.7.x-dev",
         "drupal/token": "1.x-dev",
         "drush/drush": "^11.0",
         "oomphinc/composer-installers-extender": "^2.0",
@@ -125,6 +135,18 @@
             },
             "drupal/auto_entitylabel": {
                 "Issue #3286135: Drupal 10 Compatibility fixes": "https://git.drupalcode.org/project/auto_entitylabel/-/merge_requests/7.patch"
+            },
+            "drupal/decoupled_router": {
+                "Issue #3286939: Automated Drupal 10 compatibility fixes": "https://git.drupalcode.org/project/decoupled_router/-/merge_requests/10.patch"
+            },
+            "drupal/inline_entity_form": {
+                "Automated Drupal 10 compatibility fixes": "https://git.drupalcode.org/project/inline_entity_form/-/merge_requests/61.patch"
+            },
+            "drupal/pathauto": {
+                "Issue #3316291: Drupal 10 Compatibility: Replace Stable theme with Stable 9 for automated tests": "https://git.drupalcode.org/project/pathauto/-/merge_requests/34.patch"
+            },
+            "drupal/simple_sitemap": {
+                "Issue #3316287: Replace Classy theme with Stable9 theme for tests": "https://git.drupalcode.org/project/simple_sitemap/-/merge_requests/51.patch"
             }
         }
     },
